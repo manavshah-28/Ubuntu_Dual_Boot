@@ -10,14 +10,14 @@ Windows 11 and ubuntu dual booting procedure
  4) Shrink a drive and allocate a name to the new space created (linux in my case with around 200Gb space allocated).
  5) You need a bootable drive for this process.
 
-###creating the bootable ubunut drive
+### creating the bootable ubunut drive
  1) Format the pen drive (~8Gb).
  2) Install the [rufus](https://rufus.ie/en/) software. This allows to make a bootable drive
  3) connect your formatted hard drive. It should be visible on Rufus gui.
  4) Select the .iso ubunutu file you downloaded under the boot selection option.
  5) accept defaults and press start.
 
-###booting ubuntu 
+### booting ubuntu 
  1) Restart your Laptop and press f2 while you see the dell logo, this takes you to the bios settings.
  2) Go to boot configuration and turn of secure boot.
  3) Under storage section of boot configuration deselect Raid on and select AHCI.(newer standard supported on linux).
