@@ -1,4 +1,4 @@
-# dellInspiron7572_ubuuntu_dualboot
+# Ubuntu Dual Boot
 Windows 11 and ubuntu dual booting procedure 
 
 1) download [ubuntu](https://ubuntu.com/download/desktop) lts .iso file. (aprrox 4.7Gb)
