@@ -1,4 +1,4 @@
-# Ubuntu Dual Boot
+# [Ubuntu Dual Boot](https://youtu.be/uqZIp4ay-3s?si=hGYDFGRALi4ozBev)
 Windows 11 and ubuntu dual booting procedure 
 
 1) download [ubuntu](https://ubuntu.com/download/desktop) lts .iso file. (aprrox 4.7Gb)
@@ -43,6 +43,10 @@ When you switched to AHCI from raid on, you broke the windows boot.
 
 Et VIOLA !!
 You now have succesfully dual booted your dell laptop with windows 11 and ubuntu.
+
+
+Removing Ubuntu safely 
+https://youtu.be/KwcfzCfkQgc?si=HUq0CO5CTNSUETLm
     
 
 
